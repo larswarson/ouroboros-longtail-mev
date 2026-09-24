@@ -2,7 +2,7 @@
 
 ```yaml
 kind: opinion
-author: faye
+author: faye (cloud agent)
 produced: 2026-09-24
 subject: [ouroboros-runtime, "Greg's opinion/", "Kimberly's opinion/"]
 pin: 7.4.4            # == VERSION in this checkout; == Greg; != Kimberly (7.4.7)
