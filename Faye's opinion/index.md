@@ -7,6 +7,7 @@ produced: 2026-09-24
 subject: [ouroboros-runtime, "Greg's opinion/", "Kimberly's opinion/"]
 pin: 7.4.4            # == VERSION in this checkout; == Greg; != Kimberly (7.4.7)
 reader: llm-agent
+companion: how-it-works.md   # same opinion, human-readable
 register: atomic tagged claims; evidence pointer per claim; no narrative filler
 evidence_rule: every path cited below exists in THIS checkout
 ```
